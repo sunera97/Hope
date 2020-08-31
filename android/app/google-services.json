@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "526402146231",
+    "firebase_url": "https://wanaproject20.firebaseio.com",
+    "project_id": "wanaproject20",
+    "storage_bucket": "wanaproject20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526402146231:android:193b01cd890fb7c1c12232",
+        "android_client_info": {
+          "package_name": "com.example.The_Hope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526402146231-n0jbg8nggthdictorl15sq7qbo0e3o3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.The_Hope",
+            "certificate_hash": "e4be21867db2734ddf8c07a4df3f54a5d99853d8"
+          }
+        },
+        {
+          "client_id": "526402146231-odk3ampjvg5bgrb0gj68apjiarnlu7cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzmj3uW-TiDLMP_9qhW5brS7NwrY6k_ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526402146231-odk3ampjvg5bgrb0gj68apjiarnlu7cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
